@@ -1,0 +1,13 @@
+# macOS system junk — invisible files the Mac Finder creates automatically
+.DS_Store
+
+# Python temporary files
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Local environment files (never upload credentials or secrets)
+.env
+
+# Tableau temporary files
+*.twbr
