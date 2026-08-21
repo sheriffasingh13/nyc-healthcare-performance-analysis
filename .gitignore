@@ -5,6 +5,9 @@
 # from the public source documented in the README. Keep the folders, skip the files.
 data/raw/*
 !data/raw/.gitkeep
+# Exceptions: the CMS files are small enough to include for reproducibility
+!data/raw/Hospital_General_Information.csv
+!data/raw/Timely_and_Effective_Care-Hospital.csv
 data/cleaned/*
 !data/cleaned/.gitkeep
 
