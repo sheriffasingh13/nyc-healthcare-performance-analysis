@@ -1,6 +1,13 @@
 # macOS system junk — invisible files the Mac Finder creates automatically
 .DS_Store
 
+# Data files are too large for GitHub (100 MB limit) and are re-downloadable
+# from the public source documented in the README. Keep the folders, skip the files.
+data/raw/*
+!data/raw/.gitkeep
+data/cleaned/*
+!data/cleaned/.gitkeep
+
 # Python temporary files
 __pycache__/
 *.pyc
