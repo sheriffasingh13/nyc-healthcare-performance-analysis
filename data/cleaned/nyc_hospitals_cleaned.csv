@@ -1,0 +1,46 @@
+facility_id,facility_name,address,city,zip_code,borough,hospital_type,ownership,emergency_services,overall_rating,is_rated,mortality_better,mortality_no_different,mortality_worse,safety_better,safety_no_different,safety_worse,readmission_better,readmission_no_different,readmission_worse
+330009,BRONXCARE HOSPITAL CENTER,1276 FULTON AVENUE,BRONX,10456,Bronx,Acute Care Hospitals,Voluntary non-profit - Private,Yes,1.0,True,0,5,0,0,7,0,0,2,3
+330014,JAMAICA HOSPITAL MEDICAL CENTER,89TH AVENUE AND VAN WYCK EXPRESSWAY,JAMAICA,11418,Queens,Acute Care Hospitals,Voluntary non-profit - Private,Yes,1.0,True,0,7,0,3,2,1,0,5,2
+330019,"NEW YORK COMMUNITY HOSPITAL OF BROOKLYN, INC.",2525 KINGS HIGHWAY,BROOKLYN,11229,Brooklyn,Acute Care Hospitals,Voluntary non-profit - Private,Yes,1.0,True,0,7,0,0,4,0,0,5,3
+330024,MOUNT SINAI HOSPITAL,ONE GUSTAVE L LEVY PLACE,NEW YORK,10029,Manhattan,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4.0,True,4,4,0,4,3,1,1,8,2
+330028,RICHMOND UNIVERSITY MEDICAL CENTER,355 BARD AVENUE,STATEN ISLAND,10310,Staten Island,Acute Care Hospitals,Voluntary non-profit - Private,Yes,1.0,True,0,7,0,1,6,0,0,8,2
+330046,MOUNT SINAI WEST,1000 TENTH AVENUE,NEW YORK,10019,Manhattan,Acute Care Hospitals,Voluntary non-profit - Church,Yes,4.0,True,3,5,0,3,5,0,1,7,3
+330055,NEW YORK-PRESBYTERIAN/QUEENS,56-45 MAIN STREET,FLUSHING,11355,Queens,Acute Care Hospitals,Voluntary non-profit - Private,Yes,5.0,True,3,4,0,4,3,0,2,8,0
+330056,BROOKLYN HOSPITAL CENTER - DOWNTOWN CAMPUS,121 DEKALB AVENUE,BROOKLYN,11201,Brooklyn,Acute Care Hospitals,Voluntary non-profit - Other,Yes,2.0,True,0,6,0,1,6,0,0,8,2
+330059,MONTEFIORE MEDICAL CENTER,111 EAST 210TH STREET,BRONX,10467,Bronx,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3.0,True,5,3,0,2,5,1,1,7,3
+330080,LINCOLN MEDICAL & MENTAL HEALTH CENTER,234 EAST 149TH STREET,BRONX,10451,Bronx,Acute Care Hospitals,Government - Local,Yes,2.0,True,0,4,0,2,4,0,0,3,1
+330100,NY EYE AND EAR INFIRMARY OF MOUNT SINAI,230 SECOND AVE,NEW YORK,10003,Manhattan,Acute Care Hospitals,Voluntary non-profit - Private,No,,False,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available,0,1,0
+330101,NEW YORK-PRESBYTERIAN HOSPITAL,525 EAST 68TH STREET,NEW YORK,10065,Manhattan,Acute Care Hospitals,Voluntary non-profit - Private,Yes,5.0,True,6,2,0,4,4,0,3,6,2
+330119,LENOX HILL HOSPITAL,100 EAST 77TH STREET,NEW YORK,10075,Manhattan,Acute Care Hospitals,Voluntary non-profit - Private,Yes,5.0,True,4,4,0,4,4,0,1,10,0
+330127,JACOBI MEDICAL CENTER,1400 PELHAM PARKWAY SOUTH,BRONX,10461,Bronx,Acute Care Hospitals,Government - Local,Yes,2.0,True,0,6,0,2,4,0,0,4,2
+330128,ELMHURST HOSPITAL CENTER,79-01 BROADWAY,ELMHURST,11373,Queens,Acute Care Hospitals,Government - Local,Yes,2.0,True,0,6,0,1,5,0,2,3,0
+330160,STATEN ISLAND UNIVERSITY HOSPITAL,475 SEAVIEW AVENUE,STATEN ISLAND,10305,Staten Island,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3.0,True,2,6,0,4,4,0,0,8,3
+330169,MOUNT SINAI BETH ISRAEL,281 1ST AVE,NEW YORK,10003,Manhattan,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3.0,True,3,4,0,2,4,0,0,5,4
+33016F,BRONX VA MEDICAL CENTER,130 WEST KINGSBRIDGE ROAD,BRONX,10468,Bronx,Acute Care - Veterans Administration,Veterans Health Administration,Yes,4.0,True,0,4,0,0,2,1,0,4,0
+33017F,VA NEW YORK HARBOR HEALTHCARE SYSTEM - NY DIV.,423 EAST 23RD STREET,NEW YORK,10010,Manhattan,Acute Care - Veterans Administration,Veterans Health Administration,Yes,3.0,True,1,4,0,0,2,0,0,4,2
+330193,FLUSHING HOSPITAL MEDICAL CENTER,45TH AVENUE AND PARSONS BOULEVARD,FLUSHING,11355,Queens,Acute Care Hospitals,Voluntary non-profit - Private,Yes,2.0,True,0,6,0,1,4,0,0,5,1
+330194,MAIMONIDES MEDICAL CENTER,4802 TENTH AVENUE,BROOKLYN,11219,Brooklyn,Acute Care Hospitals,Voluntary non-profit - Private,Yes,2.0,True,4,4,0,1,5,1,1,6,4
+330196,SOUTH BROOKLYN HEALTH,2601 OCEAN PARKWAY,BROOKLYN,11235,Brooklyn,Acute Care Hospitals,Voluntary non-profit - Other,Yes,2.0,True,0,7,0,2,4,0,0,4,3
+330199,METROPOLITAN HOSPITAL CENTER,1901 FIRST AVENUE,NEW YORK,10029,Manhattan,Acute Care Hospitals,Government - Local,Yes,3.0,True,0,2,0,2,3,0,1,2,0
+330202,KINGS COUNTY HOSPITAL CENTER,451 CLARKSON AVENUE,BROOKLYN,11203,Brooklyn,Acute Care Hospitals,Government - Local,Yes,1.0,True,0,6,0,1,4,1,0,3,1
+330204,BELLEVUE HOSPITAL CENTER,462 FIRST AVENUE,NEW YORK,10016,Manhattan,Acute Care Hospitals,Government - Local,Yes,2.0,True,0,6,0,1,5,0,1,4,2
+33020F,VA NEW YORK HARBOR HEALTHCARE SYSTEM - BROOKLYN,800 POLY PLACE,BROOKLYN,11209,Brooklyn,Acute Care - Veterans Administration,Veterans Health Administration,Yes,4.0,True,2,2,0,0,4,0,0,4,1
+330214,NYU LANGONE HOSPITALS,550 FIRST AVENUE,NEW YORK,10016,Manhattan,Acute Care Hospitals,Voluntary non-profit - Private,Yes,5.0,True,8,0,0,5,2,1,8,1,2
+330221,WYCKOFF HEIGHTS MEDICAL CENTER,374 STOCKHOLM STREET,BROOKLYN,11237,Brooklyn,Acute Care Hospitals,Voluntary non-profit - Private,Yes,2.0,True,0,6,0,1,5,0,0,4,1
+330231,QUEENS HOSPITAL CENTER,82-68 164TH STREET,JAMAICA,11432,Queens,Acute Care Hospitals,Voluntary non-profit - Other,Yes,2.0,True,0,5,0,2,4,0,1,2,1
+330233,BROOKDALE HOSPITAL MEDICAL CENTER,1 BROOKDALE PLAZA,BROOKLYN,11212,Brooklyn,Acute Care Hospitals,Voluntary non-profit - Private,Yes,1.0,True,0,7,0,3,2,1,0,5,1
+330240,HARLEM HOSPITAL CENTER,506 LENOX AVENUE,NEW YORK,10037,Manhattan,Acute Care Hospitals,Government - State,Yes,2.0,True,0,5,0,2,4,0,0,3,2
+330270,HOSPITAL FOR SPECIAL SURGERY,535 EAST 70TH STREET,NEW YORK,10021,Manhattan,Acute Care Hospitals,Voluntary non-profit - Private,No,5.0,True,0,2,0,2,1,0,3,0,0
+330350,SUNY/DOWNSTATE UNIVERSITY HOSPITAL OF BROOKLYN,445 LENOX ROAD,BROOKLYN,11203,Brooklyn,Acute Care Hospitals,Government - State,Yes,1.0,True,0,5,0,1,6,0,0,4,2
+330395,ST JOHN'S EPISCOPAL HOSPITAL AT SOUTH SHORE,327 BEACH 19TH STREET,FAR ROCKAWAY,11691,Queens,Acute Care Hospitals,Voluntary non-profit - Private,Yes,1.0,True,0,5,2,0,4,1,0,2,3
+330396,WOODHULL MEDICAL & MENTAL HEALTH CENTER,760 BROADWAY,BROOKLYN,11206,Brooklyn,Acute Care Hospitals,Government - Local,Yes,2.0,True,0,3,0,1,5,0,0,1,2
+330399,ST BARNABAS HOSPITAL,4422 THIRD AVENUE,BRONX,10457,Bronx,Acute Care Hospitals,Voluntary non-profit - Private,Yes,1.0,True,0,4,0,2,4,0,0,2,2
+334004,CREEDMOOR PSYCHIATRIC CENTER,80-45 WINCHESTER BLVD BLDG B,QUEENS VILLAGE,11427,Queens,Psychiatric,Government - State,No,,False,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available
+334009,NEW YORK STATE PSYCHIATRIC INSTITUTE,722 W 168TH ST,NEW YORK,10032,Manhattan,Psychiatric,Government - State,No,,False,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available
+334043,SOUTH BEACH PSYCHIATRIC CENTER,777 SEAVIEW AVE,STATEN ISLAND,10305,Staten Island,Psychiatric,Government - State,No,,False,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available
+334048,GRACIE SQUARE HOSP,420 EAST 76 ST,NEW YORK,10021,Manhattan,Psychiatric,Voluntary non-profit - Private,No,,False,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available
+334053,BRONX PSYCHIATRIC CENTER,1500 WATERS PLACE,BRONX,10461,Bronx,Psychiatric,Government - State,No,,False,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available
+334054,MANHATTAN PSYCHIATRIC CENTER,600 E 125TH STREET,NEW YORK,10035,Manhattan,Psychiatric,Government - State,No,,False,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available
+334060,KIRBY FORENSIC PSYCHIATRIC CENTER,WARD ISLAND,NEW YORK,10035,Manhattan,Psychiatric,Government - State,No,,False,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available
+334063,KINGSBORO PSYCHIATRIC HOSPITAL,681 CLARKSON AVENUE,BROOKLYN,11203,Brooklyn,Psychiatric,Government - State,No,,False,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available
+334067,NEW YORK CITY CHILDRENS PSYCH CENTER,7403 COMMONWEALTH BLVD,BELLEROSE,11426,Queens,Psychiatric,Government - State,No,,False,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available

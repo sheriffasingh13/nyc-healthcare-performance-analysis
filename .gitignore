@@ -10,6 +10,7 @@ data/raw/*
 !data/raw/Timely_and_Effective_Care-Hospital.csv
 data/cleaned/*
 !data/cleaned/.gitkeep
+!data/cleaned/nyc_hospitals_cleaned.csv
 
 # Python temporary files
 __pycache__/
