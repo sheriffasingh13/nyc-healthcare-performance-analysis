@@ -97,7 +97,7 @@ Workbook file: [`dashboard/nyc_hospital_quality.twb`](dashboard/nyc_hospital_qua
 | Staten Island | 2 | 2.00 |
 | Brooklyn | 10 | 1.80 |
 
-Manhattan averages nearly two full stars above Brooklyn. Manhattan's *lowest*-rated hospital scores at or above the *average* hospital in every other borough. All five of the city's 5-star hospitals are in Manhattan except one — NewYork-Presbyterian/Queens.
+Manhattan's average is more than double Brooklyn's. Four of the city's five 5-star hospitals sit in Manhattan; the exception is NewYork-Presbyterian/Queens. Spread within boroughs matters too: Queens ranges from 1 to 5 stars, meaning its low average is dragged up by a single strong performer, while Brooklyn's ten rated hospitals top out at 4.
 
 **2. Ownership is part of the story, but not all of it.**
 
@@ -107,7 +107,7 @@ Manhattan averages nearly two full stars above Brooklyn. Manhattan's *lowest*-ra
 | Voluntary non-profit | 23 | 2.65 |
 | Government | 9 | 1.89 |
 
-Government-run hospitals average nearly a full star below non-profits. However, the borough gap persists within ownership categories, and government hospitals are not concentrated in a single borough — Manhattan and Brooklyn each have three. Ownership alone does not account for the geographic spread.
+Government-run hospitals average nearly a full star below non-profits. However, government hospitals are not concentrated in the low-scoring boroughs: among rated hospitals, Manhattan and Brooklyn each have three, yet their averages differ by almost two stars. Ownership is associated with lower ratings, but does not by itself account for the geographic pattern.
 
 **3. NYC emergency departments run substantially slower than the national average.**
 
