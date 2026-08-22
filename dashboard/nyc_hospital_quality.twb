@@ -970,7 +970,7 @@
                 </zone-style>
               </zone>
               <zone h='93895' id='6' type-v2='layout-basic' w='85333' x='667' y='5263'>
-                <zone h='93895' id='8' name='Rating by Borough' w='21334' x='64666' y='5263'>
+                <zone h='40000' id='8' name='Rating by Borough' w='42666' x='667' y='5263'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -978,7 +978,7 @@
                     <format attr='margin' value='4' />
                   </zone-style>
                 </zone>
-                <zone h='93895' id='9' name='Watchlist' w='42666' x='667' y='5263'>
+                <zone h='53895' id='9' name='Watchlist' w='85333' x='667' y='45263'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -986,7 +986,7 @@
                     <format attr='margin' value='4' />
                   </zone-style>
                 </zone>
-                <zone h='93895' id='10' name='Rating vs ER Wait' w='21333' x='43333' y='5263'>
+                <zone h='40000' id='10' name='Rating vs ER Wait' w='42667' x='43333' y='5263'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
