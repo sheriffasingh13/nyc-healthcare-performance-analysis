@@ -81,7 +81,7 @@ Three views, each answering one question above:
 
 - **Rating by Borough** — average CMS star rating per borough
 - **Rating vs ER Wait** — every hospital plotted by rating against median ED time, colored by borough, exposing which facilities are weak on both
-- **Watchlist** — hospitals rated 2 stars or below, with their ED wait times and walkout rates
+- **Watchlist** — all 21 hospitals rated 2 stars or below, with their ED wait times and walkout rates. Of these, the 14 that also underperform on ED throughput form the prioritized list in Key Finding 4.
 
 Workbook file: [`dashboard/nyc_hospital_quality.twb`](dashboard/nyc_hospital_quality.twb)
 
